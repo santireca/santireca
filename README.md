@@ -1,4 +1,4 @@
-# Hola, __bienvenido/a a mi perfil__!
+# Hola, __bienvenido a mi perfil__! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 ## 📌Un poco sobre mi
 Me llamo Santiago, me dicen Santi, tengo 23 años, soy una persona proactiva y entusiasta que busca constantemente nuevos desafíos en el mundo de la programación. Actualmente estoy comenzando mi camino como __desarrollador Full Stack__ y, para ampliar mis habilidades y conocimientos, estoy cursando la carrera de __"Certified Tech Developer"__ en Digital House.
 Desde que tengo memoria, siempre me ha llamado la atención todo lo relacionado con las computadoras, los programas y los videojuegos. Con el tiempo, empecé a preguntarme cómo se hacían todas esas aplicaciones, lo que me llevó a descubrir el mundo de la programación y dar mis primeros pasos de forma autodidacta.

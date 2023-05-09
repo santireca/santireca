@@ -3,7 +3,7 @@
 Me llamo Santiago, me dicen Santi, tengo 23 años, soy una persona proactiva y entusiasta que busca constantemente nuevos desafíos en el mundo de la programación. Actualmente estoy comenzando mi camino como __desarrollador Full Stack__ y, para ampliar mis habilidades y conocimientos, estoy cursando la carrera de __"Certified Tech Developer"__ en Digital House.
 Siempre sentí una gran intriga y curiosidad por la tecnología, y solo fue cuestión de tiempo descubrir la programación y tomar la decisión de sumergirme en este mundo.
 ## 📌¿Cuál es mi objetivo actual?
-Actualmente me encuentro en busca de nuevas oportunidades que me permitan probar mis habilidades técnicas y blandas, y a su vez seguir mejorándolas y aprender nuevas. Estoy dispuesto a esforzarme al máximo para lograr los mejores resultados.
+Actualmente me encuentro en busca de nuevas oportunidades que me permitan probar mis habilidades, mejorarlas y aprender nuevas. Estoy dispuesto a esforzarme al máximo para lograr los mejores resultados.
 ## 📌Tech Skills
 ◻ Lenguajes » JavaScript, Java, HTML5, CSS3.
 <br>

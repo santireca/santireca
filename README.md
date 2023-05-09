@@ -13,15 +13,14 @@ Siempre sentí una gran intriga y curiosidad por la tecnología, y solo fue cues
 
 <p align="center">
 
-## 📌¿Cuál es mi objetivo actual?
-</p>
+## 📌¿Cuál es mi objetivo actual?</p>
+
 Actualmente me encuentro en busca de nuevas oportunidades que me permitan probar mis habilidades, mejorarlas y aprender nuevas. Estoy dispuesto a esforzarme al máximo para lograr los mejores resultados.
 <br></br>
 
 <p align="center">
 
-## 📌Tech Skills
-</p>
+## 📌Tech Skills</p>
 
 <!-- ```js
 const santiagoRecabarren = {
@@ -68,8 +67,7 @@ const santiagoRecabarren = {
 
 <p align="center"> 
 
-## 📌¿Qué estoy aprendiendo?
-</p>
+## 📌¿Qué estoy aprendiendo?</p>
 
 ⏳ Next.JS
 <br>
@@ -87,8 +85,8 @@ const santiagoRecabarren = {
 
 <p align="center">
 
-## 📌Mis proyectos
-</p>
+## 📌Mis proyectos</p>
+
 <p align="center">
 <a href="https://github.com/santireca/PatitasFelices"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nachomorales99&repo=PatitasFelices&theme=gruvbox&hide_border=true&show_icons=true" alt="Patitas Felices"></a>
 </p>
@@ -96,8 +94,8 @@ const santiagoRecabarren = {
 
 <p align="center">
 
-## 📌¿Cómo contactarme?
-</p>
+## 📌¿Cómo contactarme?</p>
+
 <!-- <img src="https://img.icons8.com/color/48/000000/gmail.png" width="15px"> santiagorecabarren7@gmail.com
 <br>
 <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="15px"> https://www.linkedin.com/in/santiago-tomas-recabarren/ -->

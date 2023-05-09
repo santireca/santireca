@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Santiago+Tomás+Recabarren;Full-Stack+Developer;Certified+Tech+Developer+Student;&font=Fira%20Code&center=true&width=440&height=45&size=22&color=F96F5D"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Santiago+Tomás+Recabarren;Full-Stack+Developer;Certified+Tech+Developer+Student;&font=Fira%20Code&center=true&width=440&height=45&size=22&color=4F217F"></a>
 </p>
 
 <p align="center"><em>¡Hola! Me llamo Santiago, pero me dicen Santi, tengo 23 años, soy una persona responsable, disciplinada y entusiasta que busca constantemente nuevos desafíos en el mundo de la programación. Actualmente estoy comenzando mi camino como desarrollador Full Stack y, para ampliar mis habilidades y conocimientos, estoy cursando la carrera de "Certified Tech Developer" en Digital House.
@@ -60,6 +60,7 @@ const santiagoRecabarren = {
     <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
     <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+    <a href="https://mui.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" background-color="white" alt="mui" width="30" height="30" margin-top="100px"/></a>
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
     <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a>
 </p>

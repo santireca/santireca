@@ -1,6 +1,6 @@
-# Hola, soy __Santiago Recabarren__!
+# Hola, __bienvenido/a a mi perfil__!
 ## 📌Un poco sobre mi
-Tengo 23 años y me apasiona todo lo relacionado con la tecnología. Actualmente estoy dando mis primeros pasos como __desarrollador Full Stack__ y, para ampliar mis habilidades y conocimientos, estoy cursando la carrera de __"Certified Tech Developer"__ en Digital House.
+Me llamo Santiago, me dicen Santi, tengo 23 años, soy una persona proactiva y entusiasta que busca constantemente nuevos desafíos en el mundo de la programación. Actualmente estoy comenzando mi camino como __desarrollador Full Stack__ y, para ampliar mis habilidades y conocimientos, estoy cursando la carrera de __"Certified Tech Developer"__ en Digital House.
 Desde que tengo memoria, siempre me ha llamado la atención todo lo relacionado con las computadoras, los programas y los videojuegos. Con el tiempo, empecé a preguntarme cómo se hacían todas esas aplicaciones, lo que me llevó a descubrir el mundo de la programación y dar mis primeros pasos de forma autodidacta.
 ## 📌¿Cuál es mi objetivo actual?
 En este momento, estoy en busca de nuevas oportunidades laborales que me permitan seguir mejorando mis habilidades técnicas y blandas. Estoy dispuesto a esforzarme al máximo para lograr los mejores resultados.

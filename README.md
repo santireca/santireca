@@ -85,6 +85,6 @@ const santiagoRecabarren = {
 <br>
 <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="15px"> https://www.linkedin.com/in/santiago-tomas-recabarren/ -->
 <p >
-    <a href="https://www.linkedin.com/in/santiago-tomas-recabarren/" ><img src="https://cdn.icon-icons.com/icons2/99/PNG/512/linkedin_socialnetwork_17441.png" alt="Linkedin Logo" height="70" >
+    <a href="https://www.linkedin.com/in/santiago-tomas-recabarren/" ><img src="https://cdn.icon-icons.com/icons2/99/PNG/512/linkedin_socialnetwork_17441.png" alt="Linkedin Logo" height="60" >
     <a href="mailto:santiagorecabarren7@gmail.com" ><img src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png" alt="Gmail Logo" height="80" >
 </p>

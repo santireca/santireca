@@ -41,7 +41,7 @@ const santiagoRecabarren = {
 <br>
 ✅ Testing ➤ JestJS.
 
-<p align="center"> 
+<p > 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
     <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
@@ -58,6 +58,7 @@ const santiagoRecabarren = {
     <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a>
 </p>
 <br></br>
+
 ## 📌¿Qué estoy aprendiendo?
 ⏳ Next.JS
 <br>
@@ -70,11 +71,11 @@ const santiagoRecabarren = {
 ⏳ TypeScript
 <br>
 
-<p align="center"> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/nacho-morales/image/upload/v1683592962/nextjs-removebg-preview_1_lqlbyg.png" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p > </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/nacho-morales/image/upload/v1683592962/nextjs-removebg-preview_1_lqlbyg.png" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 <br></br>
 
 ## 📌Mis proyectos
-<p align="center">
+<p >
 <a href="https://github.com/santireca/PatitasFelices"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nachomorales99&repo=PatitasFelices&theme=gruvbox&hide_border=true&show_icons=true" alt="Patitas Felices"></a>
 </p>
 <br></br>
@@ -83,7 +84,7 @@ const santiagoRecabarren = {
 <!-- <img src="https://img.icons8.com/color/48/000000/gmail.png" width="15px"> santiagorecabarren7@gmail.com
 <br>
 <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="15px"> https://www.linkedin.com/in/santiago-tomas-recabarren/ -->
-<p align="center">
+<p >
     <a href="https://www.linkedin.com/in/santiago-tomas-recabarren/" ><img src="https://cdn.icon-icons.com/icons2/99/PNG/512/linkedin_socialnetwork_17441.png" alt="Linkedin Logo" height="70" >
     <a href="mailto:santiagorecabarren7@gmail.com" ><img src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png" alt="Gmail Logo" height="80" >
 </p>

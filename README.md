@@ -5,17 +5,32 @@ Siempre sentí una gran intriga y curiosidad por la tecnología, y solo fue cues
 ## 📌¿Cuál es mi objetivo actual?
 Actualmente me encuentro en busca de nuevas oportunidades que me permitan probar mis habilidades, mejorarlas y aprender nuevas. Estoy dispuesto a esforzarme al máximo para lograr los mejores resultados.
 ## 📌Tech Skills
-◻ Lenguajes » JavaScript, Java, HTML5, CSS3.
+◻ Lenguajes ➤ JavaScript, Java, HTML5, CSS3, SQL.
 <br>
-◻ Frontend » React, Redux, Styled-Component, CSS Modules.
+◻ Frontend ➤ React, Redux, Styled-Component, CSS Modules, SASS, LESS.
 <br>
-◻ Backend » NodeJS, ExpressJS, Sequelize
+◻ Backend ➤ NodeJS, ExpressJS, Sequelize, Postman, RapidAPI.
 <br>
-◻ Base de Datos » MySQL/Workbench, PostgreSQL.
+◻ Base de Datos ➤ MySQL/Workbench, PostgreSQL.
 <br>
-◻ Control de Versiones » Git, GitHub.
+◻ Control de Versiones ➤ Git, GitHub.
 <br>
-◻ Diseño » Material UI, UI/UX Developer, Figma.
+◻ Diseño ➤ Material UI, UI/UX Developer, Figma.
+<br>
+◻ Testing ➤ Jest Js.
+
+## 📌¿Qué estoy aprendiendo?
+◻ TypeScript
+<br>
+◻ React Native
+<br>
+◻ Next.JS
+<br>
+◻ Tailwind CSS
+<br>
+◻ Python
+<br>
+
 
 ## 📌¿Cómo contactarme?
 <img src="https://img.icons8.com/color/48/000000/gmail.png" width="15px"> santiagorecabarren7@gmail.com

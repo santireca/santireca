@@ -7,9 +7,12 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Santiago+Tomás+Recabarren;Full-Stack+Developer;&font=Fira%20Code&center=true&width=440&height=45&size=22"></a>
 </p>
 
-## 📌Un poco sobre mi
-Me llamo Santiago, me dicen Santi, tengo 23 años, soy una persona proactiva y entusiasta que busca constantemente nuevos desafíos en el mundo de la programación. Actualmente estoy comenzando mi camino como __desarrollador Full Stack__ y, para ampliar mis habilidades y conocimientos, estoy cursando la carrera de __"Certified Tech Developer"__ en Digital House.
+<p align="center"><em>
+
+¡Hola! Me llamo Santiago, pero me dicen Santi, tengo 23 años, soy una persona responsable, disciplinada y entusiasta que busca constantemente nuevos desafíos en el mundo de la programación. Actualmente estoy comenzando mi camino como desarrollador Full Stack y, para ampliar mis habilidades y conocimientos, estoy cursando la carrera de "Certified Tech Developer" en Digital House.
 Siempre sentí una gran intriga y curiosidad por la tecnología, y solo fue cuestión de tiempo descubrir la programación y tomar la decisión de sumergirme en este mundo.
+
+</em></p>
 
 ## 📌¿Cuál es mi objetivo actual?
 Actualmente me encuentro en busca de nuevas oportunidades que me permitan probar mis habilidades, mejorarlas y aprender nuevas. Estoy dispuesto a esforzarme al máximo para lograr los mejores resultados.
@@ -44,6 +47,10 @@ Actualmente me encuentro en busca de nuevas oportunidades que me permitan probar
 <br>
 
 <p align="center"> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/nacho-morales/image/upload/v1683592962/nextjs-removebg-preview_1_lqlbyg.png" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+
+## 📌Mis proyectos
+
+<a href="https://github.com/santireca/PatitasFelices"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nachomorales99&repo=PatitasFelices&theme=gruvbox&hide_border=true&show_icons=true" alt="Patitas Felices"></a>
 
 
 ## 📌¿Cómo contactarme?

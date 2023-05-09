@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Santiago+Tomás+Recabarren;Full-Stack+Developer;Certified+Tech+Developer+Student;&font=Fira%20Code&center=true&width=440&height=45&size=22&color=4F217F"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Santiago+Tomás+Recabarren;Full-Stack+Developer;Certified+Tech+Developer+Student;&font=Fira%20Code&center=true&width=440&height=45&size=22&color=9C13BF"></a>
 </p>
 
 <p align="center"><em>¡Hola! Me llamo Santiago, pero me dicen Santi, tengo 23 años, soy una persona responsable, disciplinada y entusiasta que busca constantemente nuevos desafíos en el mundo de la programación. Actualmente estoy comenzando mi camino como desarrollador Full Stack y, para ampliar mis habilidades y conocimientos, estoy cursando la carrera de "Certified Tech Developer" en Digital House.
